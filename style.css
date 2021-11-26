@@ -1,0 +1,40 @@
+body{
+    /* font-family: 'Ubuntu', sans-serif !important; */
+    font-family: 'Nunito', sans-serif !important;
+    color: rgb(44, 44, 44) !important;
+}
+
+.section-header{
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+    background-color: blue;
+}
+
+
+.nav_con{
+    /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    color: red;
+}
+
+.contactUsHeader{
+    text-align: center;
+}
+
+.svg_loaction{
+    margin: 20px;
+}
+
+.nav_logo{
+    height: 50px;
+}
+
+.contactusForm{
+    background-color: rgba(0, 60, 255, 0.025);
+}
+
+.contact_sub_div{
+    background-color: rgba(0, 60, 255, 0.025);
+    border:solid rgb(255, 255, 255) 10px ;
+}
